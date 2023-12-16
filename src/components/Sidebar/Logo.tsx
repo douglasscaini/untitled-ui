@@ -1,6 +1,6 @@
 export function Logo() {
     return (
-        <strong className="flex mx-1 items-center gap-2 text-xl font-semibold text-zinc-900">
+        <strong className="flex mx-1 items-center gap-2 text-xl font-semibold text-zinc-900 dark:text-zinc-100">
             <svg width={38} height={38} viewBox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <g filter="url(#filter0_dd_5098_307)">
                     <g clipPath="url(#clip0_5098_307)">

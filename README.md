@@ -21,7 +21,7 @@
     <td colspan="1">Web App</td>
   </tr>
   <tr>
-    <td><img src=".github/desktop.png" width=1000px /></td></td>
+    <td><img src=".github/desktop1.png" width=1000px /></td></td>
   </tr>
 </table>
 
